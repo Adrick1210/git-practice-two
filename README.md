@@ -1,3 +1,3 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis at consectetur lorem donec massa sapien faucibus. Nisl nisi scelerisque eu ultrices vitae. Egestas dui id ornare arcu odio ut sem. Ut placerat orci nulla pellentesque dignissim enim. Quisque sagittis purus sit amet volutpat consequat mauris. Amet justo donec enim diam vulputate ut pharetra. Praesent semper feugiat nibh sed pulvinar proin. Adipiscing diam donec adipiscing tristique risus nec feugiat. Orci nulla pellentesque dignissim enim sit. Faucibus turpis in eu mi bibendum neque egestas. Massa placerat duis ultricies lacus sed turpis tincidunt id aliquet. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Felis donec et odio pellentesque.
 
-
+This is my first repo with a READMEmd! I'm not great at coding so this is why I am pursuing school to not suck at coding. 
